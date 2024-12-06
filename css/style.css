@@ -1,0 +1,18 @@
+body{
+    background-color: #F7ECDE;
+}
+
+.container .title{
+    font-family: "Pacifico", cursive;
+        font-weight: 500;
+        font-style: normal;
+        font-size: 50px;
+}
+.container .icon-1{
+    font-size: 25px;
+    color: #3FA55B;
+}
+.container .icon-2 {
+    font-size: 25px;
+    color: #B1AC49;
+}
